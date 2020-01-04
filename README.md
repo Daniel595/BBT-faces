@@ -5,3 +5,5 @@ This repo contains Data for my face recognition project https://github.com/Danie
   a. "raw" scenes from the series BBT and other images from different characters
   b. "test" just the resized images from "raw" all to 1280x720 
   c. "result" the face recognition applied to all "test" images
+
+https://github.com/Daniel595/BBT-faces/blob/master/test/result/74.png
