@@ -6,7 +6,15 @@ This repo contains Data for my face recognition project https://github.com/Danie
     b. "test" just the resized images from "raw" all to 1280x720 
     c. "result" the face recognition applied to all "test" images
 
-bbt:
+Trained persons:
+1. Leonard
+2. Sheldon
+3. Howard
+4. Rajesh
+5. Penny
+6. Amy
+7. Bernadette
+
 ![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/74.png)
 ![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/113.png)
 ![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/26.png)
@@ -14,7 +22,5 @@ bbt:
 ![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/57.png)
 ![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/6.png)
 ![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/96.png)
-
-strange:
 ![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/47.png)
 ![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/49.png)
