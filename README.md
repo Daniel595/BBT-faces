@@ -41,3 +41,4 @@ This repo contains Data for my face recognition project https://github.com/Danie
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/49.png)
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/84.png)
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/94.png)
+
