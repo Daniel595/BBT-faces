@@ -15,7 +15,7 @@ This repo contains Data for my face recognition project https://github.com/Danie
 2. "test" just the resized images from "raw" - all sized to 1280x720 
 3. "result" the face recognition applied to all "test" images
 
-## some results
+# some results
 
 ## High resolution
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/113.png)
