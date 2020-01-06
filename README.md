@@ -1,7 +1,11 @@
-# BBT-faces
+# BBT-faces testdata for face recognition with jetson nano 
+This is a submodule of the face recognition project with jetson nano: https://github.com/Daniel595/Jetson_nano_face_recognition
 
 
-Trained persons:
+It contains testdata and the results of a face recognition trained on my bbt-dataset: https://github.com/Daniel595/Jetson_nano_face_recognition/tree/master/faces/train/datasets/bbt
+
+
+## Trained persons:
 1. Leonard
 2. Sheldon
 3. Howard
@@ -10,7 +14,7 @@ Trained persons:
 6. Amy
 7. Bernadette
 
-This repo contains Data for my face recognition project https://github.com/Daniel595/Jetson_nano_face_recognition on jetson nano 
+## Directories:
 1. "raw" contains images with known ("trained persons") and unknown people (random facial images)
 2. "test" just the resized images from "raw" - all sized to 1280x720 
 3. "result" the face recognition applied to all "test" images
