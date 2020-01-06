@@ -1,5 +1,6 @@
 # BBT-faces
 
+
 Trained persons:
 1. Leonard
 2. Sheldon
@@ -14,7 +15,7 @@ This repo contains Data for my face recognition project https://github.com/Danie
 2. "test" just the resized images from "raw" - all sized to 1280x720 
 3. "result" the face recognition applied to all "test" images
 
-
+## some results
 
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/74.png)
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/113.png)
