@@ -32,7 +32,10 @@ This repo contains Data for my face recognition project https://github.com/Danie
 
 ## Grimaces
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/60.png)
-![alt text](https://github.com/Daniel595/testdata/blob/master/result/98.png)
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/9.png)
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/28.png)
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/5.png)
+
 
 ## Strange faces
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/49.png)
