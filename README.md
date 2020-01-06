@@ -30,9 +30,10 @@ It contains testdata and the results of a face recognition trained on my bbt-dat
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/58.png)
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/23.png)
 
-## Illumination
+## Face covering
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/85.png)
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/55.png)
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/37.png)
 
 ## Grimaces
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/60.png)
