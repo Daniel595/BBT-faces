@@ -17,12 +17,24 @@ This repo contains Data for my face recognition project https://github.com/Danie
 
 ## some results
 
-![alt text](https://github.com/Daniel595/testdata/blob/master/result/74.png)
+## High resolution
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/113.png)
-![alt text](https://github.com/Daniel595/testdata/blob/master/result/26.png)
-![alt text](https://github.com/Daniel595/testdata/blob/master/result/28.png)
-![alt text](https://github.com/Daniel595/testdata/blob/master/result/57.png)
-![alt text](https://github.com/Daniel595/testdata/blob/master/result/6.png)
-![alt text](https://github.com/Daniel595/testdata/blob/master/result/96.png)
-![alt text](https://github.com/Daniel595/testdata/blob/master/result/47.png)
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/88.png)
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/104.png)
+
+## Low resolution
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/58.png)
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/23.png)
+
+## Illumination
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/85.png)
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/55.png)
+
+## Grimaces
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/60.png)
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/98.png)
+
+## Strange faces
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/49.png)
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/84.png)
+![alt text](https://github.com/Daniel595/testdata/blob/master/result/94.png)
