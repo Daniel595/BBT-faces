@@ -10,9 +10,9 @@ Trained persons:
 7. Bernadette
 
 This repo contains Data for my face recognition project https://github.com/Daniel595/Jetson_nano_face_recognition on jetson nano 
-    a. "raw" contains images with known ("trained persons") and unknown people (random facial images)
-    b. "test" just the resized images from "raw" - all sized to 1280x720 
-    c. "result" the face recognition applied to all "test" images
+    1. "raw" contains images with known ("trained persons") and unknown people (random facial images)
+    2. "test" just the resized images from "raw" - all sized to 1280x720 
+    3. "result" the face recognition applied to all "test" images
 
 
 
