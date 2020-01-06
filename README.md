@@ -15,12 +15,12 @@ Trained persons:
 6. Amy
 7. Bernadette
 
-![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/74.png)
-![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/113.png)
-![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/26.png)
-![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/28.png)
-![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/57.png)
-![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/6.png)
-![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/96.png)
-![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/47.png)
-![alt text](https://github.com/Daniel595/BBT-faces/blob/master/test/result/49.png)
+![alt text](https://github.com/Daniel595/BBT-faces/blob/master/testdata/result/74.png)
+![alt text](https://github.com/Daniel595/BBT-faces/blob/master/testdata/result/113.png)
+![alt text](https://github.com/Daniel595/BBT-faces/blob/master/testdata/result/26.png)
+![alt text](https://github.com/Daniel595/BBT-faces/blob/master/testdata/result/28.png)
+![alt text](https://github.com/Daniel595/BBT-faces/blob/master/testdata/result/57.png)
+![alt text](https://github.com/Daniel595/BBT-faces/blob/master/testdata/result/6.png)
+![alt text](https://github.com/Daniel595/BBT-faces/blob/master/testdata/result/96.png)
+![alt text](https://github.com/Daniel595/BBT-faces/blob/master/testdata/result/47.png)
+![alt text](https://github.com/Daniel595/BBT-faces/blob/master/testdata/result/49.png)
