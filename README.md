@@ -45,5 +45,4 @@ It contains testdata and the results of a face recognition trained on my bbt-dat
 ## Strange faces
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/49.png)
 ![alt text](https://github.com/Daniel595/testdata/blob/master/result/84.png)
-![alt text](https://github.com/Daniel595/testdata/blob/master/result/94.png)
 
