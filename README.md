@@ -14,6 +14,8 @@ It contains testdata and the results of a face recognition trained on my bbt-dat
 6. Amy
 7. Bernadette
 
+Dataset for training: https://github.com/Daniel595/Jetson_nano_face_recognition/tree/master/faces/train/datasets/bbt
+
 ## Directories:
 1. "raw" contains images with known ("trained persons") and unknown people (random facial images)
 2. "test" just the resized images from "raw" - all sized to 1280x720 
